@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-https://datastudio.google.com/embed/reporting/716d9316-a123-4a77-a673-6743f343ccb0/page/pURUC
+http://datastudio.google.com/embed/reporting/716d9316-a123-4a77-a673-6743f343ccb0/page/pURUC
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

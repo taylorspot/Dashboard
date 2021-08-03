@@ -1,4 +1,4 @@
-# SPOT APP Dashboard
+
 
 ### Spotter Metrics
 

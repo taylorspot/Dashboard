@@ -20,6 +20,7 @@ The dashboard is just in its begining stages and will be continually iterated on
   * Daily/Monthly/Yearly Retention 
   * Cohort Analsis
 
+* Continutally assure the accuracy of the data being reported
 * Revamp UI 
 
 

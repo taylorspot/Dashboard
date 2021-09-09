@@ -1,7 +1,6 @@
-
-
 header_pages:
   - gig_metrics.md
-  - index.md
+  - spotter_metrics.md
+  - group_metrics.md
 
 theme: minima

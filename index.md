@@ -1,4 +1,3 @@
-# Introduction 
 
 This webapage contains analytics pertaining to the use of Spot App. There are three dashboards that focus on different elements of Spot App: 
 * Spotter Metrics 

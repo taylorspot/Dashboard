@@ -1,2 +1,4 @@
 theme: minima
 
+header_pages:
+  - gig_metrics.md

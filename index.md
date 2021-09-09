@@ -1,4 +1,4 @@
-This webapage contains analytics pertaining to the use of Spot App. There are three dashboards that focus on different elements of Spot App: *Spotter Metrics*, *Group Metrics*, *Gig Metric*. In the top right of each dashboard, there is a calendar that allows you to toggle a specific date range. 
+This webapage contains analytics pertaining to the use of Spot App. There are three dashboards that focus on different elements of Spot App: *Spotter Metrics*, *Group Metrics*, *Gig Metric*. On the top of each dashboard, there is a calendar that allows you to toggle a specific date range. 
 
 Each dashboards contains several sections:
 * **Numbers at a Glance:** Numeric Indicators summarizing the performance of Spot App over the specified date range. Each scorecard contains the following subcomponents: 

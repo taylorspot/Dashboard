@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gig Metrics
+title: 
 permalink: /gig_metrics/
 ---
 

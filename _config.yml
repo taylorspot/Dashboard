@@ -1,4 +1,7 @@
-theme: minima
+
 
 header_pages:
   - gig_metrics.md
+  - index.md
+
+theme: minima

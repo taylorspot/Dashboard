@@ -8,7 +8,7 @@ Each dashboards contains several sections:
     * **Total:** The value of the metric over the entire life of the app
     * **Percent Increase:** The percent increase in the metric over the date range compared to the metric over the life of the app 
     
-* *Trends Over Time:** Metrics reported over time
+* **Trends Over Time:** Metrics reported over time
     * **Period:** Limited to the specified data raneg 
     * **Total:** Over the entire life of the app
 

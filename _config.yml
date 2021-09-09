@@ -1,6 +1,6 @@
 header_pages:
-  - gig_metrics.md
-  - spotter_metrics.md
-  - group_metrics.md
+  - Dashboard/gig_metrics.md
+  - Dashboard/spotter_metrics.md
+  - Dashboard/group_metrics.md
 
 theme: minima

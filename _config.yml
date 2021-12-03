@@ -4,5 +4,6 @@ header_paths:
   - gig_metrics.md
   - spotter_metrics.md
   - group_metrics.md
+  - retention.md
 
 title: Spot App Dashboard
